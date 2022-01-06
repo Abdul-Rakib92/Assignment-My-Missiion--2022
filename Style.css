@@ -26,7 +26,7 @@ span{
     margin-top: 5%;
 }
 .seperate img{
-    width: 100%;
+    width: 80%;
 }
 p{
     word-spacing: 1px;
@@ -88,5 +88,16 @@ h3{
 }
 .img-width{
     width: 40%;
+}
+.develop{
+    background-image: url(./image/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+    margin-left: 3%;
+}
+
+.seperate h2{
+    text-align: start;
 }
 
