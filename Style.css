@@ -1,11 +1,11 @@
 body{
     margin: 0;
-    
+    padding: 0;
 }
 
 section{
     height: 600px;
-    padding-bottom: 110px;
+    padding-bottom: 130px;
 }
 span{
     color: orangered;
@@ -109,3 +109,54 @@ h3{
     margin-right: 3%;
 }
 
+.line1{
+    border: 2px solid black;
+    border-bottom: none;
+    width: 600px;
+}
+#information{
+    background-color: blanchedalmond;
+    
+}
+
+.contact{
+    width: 500px;
+    
+    top: 20%;
+    left: 50%;
+    text-align: center;
+    /* margin: 0 auto; */
+    
+    /* box-shadow: 0 0 30px 0 gray;
+    transform: translate(-50%,-50%); */
+
+    /* position: absolute; */
+
+}
+form{
+    margin: 50px;
+}
+.input-area{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    outline: none;
+    border: 1px solid black;
+}
+.text-field{
+    height: 80px;
+    padding-top: 10px;
+}
+.btn{
+    border-radius: 25px;
+    color: black;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightgreen;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+}
